@@ -1,0 +1,57 @@
+﻿@model MvcBookStore.Models.Books
+
+@{
+    ViewBag.Title = "书籍信息";
+}
+
+<h2>书籍信息</h2>
+
+<fieldset>
+    <legend>书籍</legend>
+
+    <div class="display-label">
+        类别
+         @*@Html.DisplayNameFor(model => model.Categories.Name)*@
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Categories.Name)
+    </div>
+   
+
+    <div class="display-label">
+        作者
+        @*@Html.DisplayNameFor(model => model.Authors)*@
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Authors)
+    </div>
+        <div class="display-label">
+            书名
+            @*@Html.DisplayNameFor(model => model.Title)*@
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Title)
+        </div>
+
+        <div class="display-label">
+            单价
+            @*@Html.DisplayNameFor(model => model.Price)*@
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Price)
+        </div>
+
+
+    <div class="display-label">
+        封面
+        @*@Html.DisplayNameFor(model => model.BookCoverUrl)*@
+    </div>
+    <div class="display-field">
+        @Html.EditorFor(model => model.BookCoverUrl)
+        @Html.ValidationMessageFor(model => model.BookCoverUrl)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("编辑", "Edit", new { id=Model.BookId }) |
+    @Html.ActionLink("返回", "Index")
+</p>

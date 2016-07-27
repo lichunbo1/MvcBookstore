@@ -1,0 +1,29 @@
+﻿@model MvcBookStore.Models.Books
+
+@{
+    ViewBag.Title = "书籍信息";
+}
+
+<h2>书名：@Model.Title</h2>
+<p>
+    @*<img alt="@Model.Title" src="@Model.BookCoverUrl"/>*@
+    <img alt="@Model.Title" width="160" height="200" src="../../Images/@Model.BookCoverUrl" />
+
+</p>
+<div>
+    <p>
+        <b>类别：</b>
+        @Model.Categories.Name
+    </p>
+    <p>
+        <b>作者：</b>
+        @Model.Authors
+    </p>
+    <p>
+        <b>价格：</b>
+        @String.Format("{0:F}",Model.Price)
+    </p>
+    <p class="button">
+    @Html.ActionLink("添加到购物车","AddToCart","ShoppingCart",new{id=Model.BookId},"")
+    </p>
+</div>

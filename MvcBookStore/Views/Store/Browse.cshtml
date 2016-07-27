@@ -1,0 +1,25 @@
+﻿@model MvcBookStore.Models.Categories
+
+@{
+    ViewBag.Title = "分类浏览";
+}
+<div class="genre">
+    <h2>种类：@Model.Name</h2>
+    <ul id="album-list">
+        @foreach (var book in Model.Books)
+        {
+             <li>
+                 <a href="@Url.Action("Details", new { id=book.BookId})">
+                     
+                     
+                     <span style="width:auto">
+                         @book.Title</span>
+                     <img alt="@book.Title" width="120" height="150"
+                          src="../../Images/@book.BookCoverUrl" />
+
+</a>
+
+             </li>
+        }
+    </ul>
+</div>

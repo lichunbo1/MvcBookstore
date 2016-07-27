@@ -1,0 +1,55 @@
+﻿@model MvcBookStore.Models.Books
+
+@{
+    ViewBag.Title = "删除书籍";
+}
+
+<h2>删除书籍</h2>
+
+<h3>确定要删除下列书籍吗？</h3>
+<fieldset>
+    <legend>Books</legend>
+
+    <div class="display-label">
+        类别
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Categories.Name)
+    </div>
+
+    <div class="display-label">
+         书名
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    
+
+    <div class="display-label">
+        作者
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Authors)
+    </div><div class="display-label">
+    单价
+</div>
+<div class="display-field">
+    @Html.DisplayFor(model => model.Price)
+</div>
+
+<div class="display-label">
+    封面
+</div>
+<div class="display-field">
+    @Html.EditorFor(model => model.BookCoverUrl)
+    @Html.ValidationMessageFor(model => model.BookCoverUrl)
+</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="确定" /> |
+        @Html.ActionLink("返回", "Index")
+    </p>
+}

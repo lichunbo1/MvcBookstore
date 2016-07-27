@@ -1,0 +1,17 @@
+﻿@model IEnumerable<MvcBookStore.Models.Books>
+@{
+    ViewBag.Title = "小书店";
+}
+<div id="promotion"></div>
+<h3>近期上架书籍</h3>
+<ul id="album-details">
+    @foreach (var book in Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Store", new { id=book.BookId})">
+                <img alt="@book.Title" width="160" height="200" src="../../Images/@book.BookCoverUrl" />
+                <span>@book.Title</span>
+            </a>
+        </li> 
+    }
+</ul>

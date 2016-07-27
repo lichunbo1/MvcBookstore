@@ -1,0 +1,39 @@
+﻿@model MvcBookStore.Models.Orders
+
+@{
+    ViewBag.Title = "订单结算页";
+}
+
+
+
+@using (Html.BeginForm()) {
+    
+    <h2>填写并核对订单信息</h2>
+    @*@Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)*@
+    <fieldset>
+        <legend>订单信息</legend>
+        @Html.EditorForModel()
+     </fieldset>
+
+    <fieldset>
+        <legend>付款</legend>
+        <p>全场免费优惠码："FREE"</p>
+        <div class="editor-label">
+            @Html.Label("优惠码");
+        </div>
+        <div class="editor-field">
+           @Html.TextBox("PromoCode");
+        </div>
+            <input type="submit" value="提交订单" />
+      
+    </fieldset>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

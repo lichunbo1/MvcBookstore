@@ -1,0 +1,429 @@
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Http.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Http.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\obj\Debug\ResolveAssemblyReference.cache
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch02\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Http.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Http.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\obj\Debug\ResolveAssemblyReference.cache
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\教学\教材\ASP.NET MVC 程序开发\教材\实例\ch03\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.AspNet.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.Core.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OAuth.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Optimization.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+E:\新建文件夹\ch04\project_begin\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Administrator\Desktop\project_begin\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\波哥你好\Desktop\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+H:\MVC程序设计\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Net.Http.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Net.Http.WebRequest.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\WebMatrix.Data.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\WebMatrix.WebData.xml
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\波哥你好\Desktop\实训\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache

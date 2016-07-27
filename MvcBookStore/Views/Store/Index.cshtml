@@ -1,0 +1,15 @@
+﻿@model IEnumerable<MvcBookStore.Models.Categories>
+
+@{
+    ViewBag.Title = "选择书籍类别";
+}
+
+<h2>书籍类别</h2>
+<h3>共有 @Model.Count() 个种类可以选择：</h3>
+<ol class="round">
+    @foreach (var category in Model)
+    {
+        <li class="one" ><h5>@Html.ActionLink(@category.Name, "Browse", new { id=@category.CategoryId })</h5></li>
+    }
+</ol>
+

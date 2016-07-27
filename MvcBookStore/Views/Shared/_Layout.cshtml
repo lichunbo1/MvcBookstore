@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html lang="zh">
+    <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta charset="utf-8" />
+        <title>@ViewBag.Title - 我的 ASP.NET MVC 应用程序</title>
+        <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+        <meta name="viewport" content="width=device-width" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+    </head>
+    <body>
+        <div id="setWidth">
+            @if (Request.IsAuthenticated)
+            {
+                <text >
+                你好，@Html.ActionLink(User.Identity.Name, "Manage", "Account", routeValues: null, htmlAttributes: new { @class = "username", title = "管理" })!
+                @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <a href="javascript:document.getElementById('logoutForm').submit()">注销</a>
+                }
+                </text>
+            }
+            else
+            {
+
+                <ul>
+                    <li>@Html.ActionLink("注册", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+                    <li>@Html.ActionLink("登录", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+                </ul>
+            }
+            <div id="header">
+              
+                <h1><a href="/">网上书店</a></h1>
+              
+                <ul id="navlist">
+                    <li class="first"><a href="@Url.Content("~")" id="current">首页</a></li>
+                    @*<li><a href="@Url.Content("~/ShoppingCart/")">购物车</a></li>*@
+                   <li>@{Html.RenderAction("CartSummary", "ShoppingCart");}</li>
+                    <li><a href="@Url.Content("~/StoreManager/")">管理页</a></li>
+                </ul>
+            </div>
+            @RenderSection("featured", required: false)
+            @{Html.RenderAction("CategoryMenu", "Store");}
+            <div id="main" style="width:800px;height:auto">
+                @RenderBody()
+            </div>
+            <div id="footer">
+                <p>&copy;@DateTime.Now.Year-我的MVC应用程序</p>
+            </div>
+        </div>
+        @Scripts.Render("~/bundles/jquery")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

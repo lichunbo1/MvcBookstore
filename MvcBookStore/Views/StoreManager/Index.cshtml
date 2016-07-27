@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MvcBookStore.Models.Books>
+           @helper Truncate(string input, int length)
+           {if (input.Length <= length)
+            {@input}
+            else { @input.Substring(0,length)<text>...</text>}
+}
+
+@{
+    ViewBag.Title = "书籍管理";
+}
+
+<h2>书籍管理</h2>
+
+<p>
+    @Html.ActionLink("新建", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+           类别
+        </th>
+        <th>
+            书名
+        </th>
+        <th>
+            作者
+        </th>
+        <th>
+            单价
+        </th>
+       
+        <th>封面</th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Categories.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+           @Html.DisplayFor(modelItem => item.Authors)
+        </td>
+       
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            <img alt="封面" width="40" height="50"
+                 src="../../Images/@Html.DisplayFor(modelItem => item.BookCoverUrl)" />
+
+        </td>
+        <td>
+            @Html.ActionLink("编辑", "Edit", new { id=item.BookId }) |
+            @Html.ActionLink("书籍明细", "Details", new { id=item.BookId }) |
+            @Html.ActionLink("删除", "Delete", new { id=item.BookId })
+        </td>
+    </tr>
+}
+
+</table>

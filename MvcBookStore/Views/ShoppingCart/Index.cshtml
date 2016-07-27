@@ -1,0 +1,84 @@
+﻿@model MvcBookStore.ViewModel.ShoppingCartViewModel
+
+@{
+    ViewBag.Title = "购物车";
+}
+    
+        @section scripts{
+        <script type="text/javascript">
+            $(function () {
+                //alert("jquery ok");
+                // 移除购物车事件
+                $(".RemoveLink").click(function () {
+                    //alert("event成功");
+                    // 获取需要移除的书籍的id
+                    var recordToDelete = $(this).attr("data-id");
+                    if (recordToDelete != '') {
+                        // Ajax调用
+                        $.post("/ShoppingCart/RemoveFromCart", { "id": recordToDelete },
+                            function (data) {
+
+                                // 如果调用成功
+                                // 更新页面元素
+                                if (data.ItemCount == 0) {
+                                    $('#row-' + data.DeleteId).fadeOut('slow');
+                                } else {
+                                    $('#item-count-' + data.DeleteId).text(data.ItemCount);
+                                }
+                                $('#cart-total').text(data.CartTotal);
+                                $('#update-message').text(data.Message);
+                                $('#cart-status').text('购物车 (' + data.CartCount + ')');
+                            });
+                    }
+                });
+            });
+    </script>
+}
+
+<h2>我的购物车</h2>
+<p class="button">@Html.ActionLink("去结算", "AddressAndPayment", "Checkout")</p>
+<p>
+    @Html.ActionLink("新建", "Index", "Store")
+</p>
+<table>
+    <tr>
+        <th>
+            书名
+        </th>
+        <th>
+            价格
+        </th>
+        <th>
+            数量
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.CartItems)
+    {
+        <tr id="row-@item.RecordId">
+            <td>
+                @Html.ActionLink(item.Books.Title, "Details", "Store", new { id = item.BookId }, null)
+            </td>
+            <td>
+                @item.Books.Price
+            </td>
+            <td id="item-count-@item.RecordId">
+                @item.Count
+            </td>
+            <td>
+                <a href="#" class="RemoveLink" data-id="@item.RecordId">从购物车移除</a>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td>
+            总数
+        </td>
+        <td></td>
+        <td></td>
+        <td id="cart-total">
+            @Model.CartTotal
+        </td>
+    </tr>
+</table>
+

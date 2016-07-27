@@ -1,0 +1,10 @@
+﻿@model IEnumerable<MvcBookStore.Models.Categories>
+           <ul id="categories">
+               @foreach (var category in Model)
+               {
+                   <li>
+                       @Html.ActionLink(category.Name, "Browse", "Store",
+                       new { id=category.CategoryId},null)
+                   </li> 
+               }
+           </ul>
